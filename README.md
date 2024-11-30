@@ -23,4 +23,4 @@ This repository demonstrates my expertise in DevOps and AWS by implementing:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/devops-skills-showcase.git
+   git clone https://github.com/tavleen68/cloud-automation-toolkit.git
