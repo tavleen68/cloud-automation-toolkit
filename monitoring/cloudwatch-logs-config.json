@@ -1,0 +1,12 @@
+{
+    "logGroupName": "devops-showcase-logs",
+    "retentionInDays": 7,
+    "metricTransformations": [
+      {
+        "metricName": "ErrorCount",
+        "metricNamespace": "DevOpsShowcase",
+        "metricValue": "1"
+      }
+    ]
+  }
+  

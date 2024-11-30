@@ -1,0 +1,19 @@
+
+---
+
+#### **`.gitignore`**
+Include a `.gitignore` file to prevent sensitive or unnecessary files from being uploaded.
+
+```plaintext
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# AWS Credentials
+*.aws

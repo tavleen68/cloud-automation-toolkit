@@ -1,0 +1,22 @@
+cloud-automation-toolkit/
+│
+├── README.md
+├── .gitignore
+├── diagrams/
+│   └── architecture-diagram.png
+├── src/
+│   ├── app.py
+│   └── Dockerfile
+├── infra/
+│   ├── main.tf
+│   ├── variables.tf
+│   └── outputs.tf
+├── ci-cd/
+│   ├── buildspec.yml
+│   └── pipeline-config.json
+├── monitoring/
+│   ├── cloudwatch-logs-config.json
+│   ├── prometheus-config.yaml
+│   └── grafana-dashboard.json
+└── docs/
+    └── project-details.md
